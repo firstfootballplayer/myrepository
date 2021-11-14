@@ -16,4 +16,6 @@ int main()
     int num=61;
     int c   = 12;
     printf( " %d", num );
+   printf( " %d", num );
+   printf( " %d", num );
 }
